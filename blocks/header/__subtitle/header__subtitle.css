@@ -1,13 +1,13 @@
-  .header__subtitle {
-    line-height: 25px;
-    font-size: 18px;
-    font-weight: normal;
-    z-index: 5;
-    left: 64px;
-    bottom: 30px;
-    max-width: 388px;
-    position: absolute;
-    flex-wrap: wrap;
-    margin: 0;
-    padding: 0;
-  }
+.header__subtitle {
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: normal;
+  z-index: 5;
+  left: 64px;
+  bottom: 30px;
+  max-width: 388px;
+  position: absolute;
+  flex-wrap: wrap;
+  margin: 0;
+  padding: 0;
+}
